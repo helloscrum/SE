@@ -1,0 +1,35 @@
+body {
+    background-image: url("../images/bg.jpg");
+    margin:0;
+    font-family: 'Raleway', sans-serif;
+    -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+
+}
+
+#header {
+
+    background-color: #0000CC;
+    padding:20px;
+    border-bottom: 4px solid #1089E2;
+    margin-bottom:70px;
+}
+
+#header .top-header {
+    padding-top: 20px;
+    border-bottom: 4px solid #0c6eb6;
+    padding-bottom: 20px;
+}
+.logo img {
+    margin-left: 8%;
+}
+
+
+		.bgfixed{
+			background-color:#aaaaaa;
+			color:#fff;
+			margin-top20px;
+			padding:0 10px 10px 10px;
+		}
